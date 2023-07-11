@@ -77,49 +77,49 @@ In this report, a TCL toolbox is created to process a verilog design. Design det
  
 | ![files](docs/w%20(9).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 8 Creation of .tcl script |
 
 | ![files](docs/w%20(8).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 9 Verifyinf creation of file using vim |
 
 | ![files](docs/w%20(11).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 10 Invoking the tcl script within the shell script |
+
+| ![files](docs/w%20(14).png) |
+|:--:|
+| Fig. 11 Sample CSV file containing the design details required by the script |
  
 | ![files](docs/w%20(12).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 12 TCL file containing the logic of extracting CSV data and auto-creating variables |
  
 | ![files](docs/w%20(13).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
- 
-| ![files](docs/w%20(14).png) |
-|:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 13 Verification of variable creation and it's contents |
  
 | ![files](docs/w%20(15).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 14 Script to verify variable name and contents |
  
 | ![files](docs/w%20(16).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 15 Verification of variable name and contents |
  
 | ![files](docs/w%20(17).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 16 Script to check the correctness of details provided in the CSV file |
  
 | ![files](docs/w%20(18).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 17 Verification of details - if a wrong path was provided, the script would have thrown an error and exited right away |
 
 # 4. Processing constraints from the CSV File
 
 | ![files](docs/w%20(19).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. |
  
 | ![files](docs/w%20(20).png) |
 |:--:|
@@ -380,5 +380,5 @@ The above work was carried out as a part of the 5-day workshop on TCL Programmin
 # Bibliography
 
 1. [TCL in VLSI](https://chipedge.com/tcl-scripting-for-vlsi-a-brief-guide/#:~:text=TCL%20(Tool%20Command%20Language)%20is,tools%20are%20built%20on%20it.)
-2. 
+2. [Yosys PPT](https://opencores.org/websvn/filedetails?repname=socgen&path=%2Fsocgen%2Ftrunk%2Ftools%2Fyosys%2Fyosys_presentation.pdf)
 
