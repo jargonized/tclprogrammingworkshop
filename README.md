@@ -195,19 +195,19 @@ In this report, a TCL toolbox is created to process a verilog design. Design det
 
 | ![files](docs/out_sdc_sc.png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 35 Script to extract output constraints |
 
 | ![files](docs/w%20(37).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 36  Successful extraction of clock, input and output constraints in the SDC format |
  
 | ![files](docs/w%20(38).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 37 Illustration of bussed and unbussed output ports |
  
 | ![files](docs/w%20(39).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 38 Output constraints in SDC format - can be viewed using commands in Fig. 34|
 
 # 8. Yosys
 
