@@ -175,21 +175,21 @@ In this report, a TCL toolbox is created to process a verilog design. Design det
 
 # 6. Processing input constraints
 
-| ![files](docs/w%20(32).png) |
-|:--:|
-| Fig. 31 |
- 
 | ![files](docs/w%20(33).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
- 
+| Fig. 31 Script to extract 1. Input latency and slew; 2. Bussed and bit ports using pattern searching |
+
 | ![files](docs/w%20(34).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 32 Continuation of Fig. 31 - appending the port name with * if bussed and dumping values into SDC file |
 
+| ![files](docs/w%20(32).png) |
+|:--:|
+| Fig. 33 Successful identification and modification of bussed ports  |
+ 
 | ![files](docs/w%20(36).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 34 Path to access sdc file |
 
 # 7. Processing output constraints
 
