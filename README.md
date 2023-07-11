@@ -209,6 +209,10 @@ In this report, a TCL toolbox is created to process a verilog design. Design det
 
 # 8. Yosys
 
+Yosys is the first full-featured open source software for Verilog HDL synthesis. It supports most of Verilog-2005 and is well tested with real-world designs from the ASIC and FPGA world.
+
+Synthesis using Yosys can be well understood from [my report here](https://github.com/jargonized/sky130RTLDesignandSynthesisWorkshop)
+
 # 9. Hierarchy Check
 
 | ![files](docs/w%20(40).png) |
@@ -374,4 +378,7 @@ In this report, a TCL toolbox is created to process a verilog design. Design det
 The above work was carried out as a part of the 5-day workshop on TCL Programming organised by VLSI System Design. I am greatly indebted to Kunal Ghosh (course instructor), Geetima Kachari (TA) and the entire VSD Team for this great learning experience and immense guidance provided throughout the workshop.
 
 # Bibliography
+
+1. [TCL in VLSI](https://chipedge.com/tcl-scripting-for-vlsi-a-brief-guide/#:~:text=TCL%20(Tool%20Command%20Language)%20is,tools%20are%20built%20on%20it.)
+2. 
 
