@@ -75,8 +75,6 @@ In this report, a TCL toolbox is created to process a verilog design. Design det
 
 # 3. Variable Creation 
 
-## 3.1 Things to Note
- 
 | ![files](docs/w%20(9).png) |
 |:--:|
 | Fig. 8 Creation of .tcl script |
