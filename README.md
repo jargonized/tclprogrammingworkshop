@@ -281,45 +281,47 @@ Synthesis using Yosys can be well understood from [my report here](https://githu
 
 # 11. Procs
 
+Procedures are nothing but code blocks with series of commands that provide a specific reusable functionality. It is used to avoid same code being repeated in multiple locations. Procedures are equivalent to the functions used in many programming languages and are made available in Tcl with the help of proc command.
+
 | ![files](docs/w%20(59).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 52 Proc to set library files for STA|
  
 | ![files](docs/w%20(60).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 53 (i) Proc to modify SDC constraints to suit Opentimer requirements |
  
 | ![files](docs/w%20(61).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 53 (ii) contd. |
  
 | ![files](docs/w%20(62).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 53 (iiI) contd. |
  
 | ![files](docs/w%20(63).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 53 (iv) contd. |
  
 | ![files](docs/w%20(64).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 54 Proc to set netlist directory |
  
 | ![files](docs/w%20(65).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 55 Proc to set Standard Output|
  
 | ![files](docs/w%20(66).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 56 Proc to set number of threads for Opentimer to access while running |
  
 | ![files](docs/w%20(67).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 57 Sample TCl script to illustrate use of a proc |
  
 | ![files](docs/w%20(68).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 58 Execution of the test script |
 
 # 12. Netlist and SDC processing for Opentimer
 
@@ -383,4 +385,5 @@ The above work was carried out as a part of the 5-day workshop on TCL Programmin
 
 1. [TCL in VLSI](https://chipedge.com/tcl-scripting-for-vlsi-a-brief-guide/#:~:text=TCL%20(Tool%20Command%20Language)%20is,tools%20are%20built%20on%20it.)
 2. [Yosys PPT](https://opencores.org/websvn/filedetails?repname=socgen&path=%2Fsocgen%2Ftrunk%2Ftools%2Fyosys%2Fyosys_presentation.pdf)
+3. [More on Procs](https://www.tutorialspoint.com/tcl-tk/tcl_procedures.htm)
 
