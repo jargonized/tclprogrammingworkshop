@@ -217,41 +217,41 @@ Synthesis using Yosys can be well understood from [my report here](https://githu
 
 # 9. Hierarchy Check
 
-| ![files](docs/w%20(40).png) |
-|:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
- 
 | ![files](docs/w%20(41).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 39 Script to run hierarchy check - check if all modules referenced within the top module is valid |
+
+| ![files](docs/w%20(40).png) |
+|:--:|
+| Fig. 40 Successful verification that modules are present |
  
 | ![files](docs/w%20(42).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 40 (i) - Hierarchy check log file. |
  
 | ![files](docs/w%20(43).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 40 (ii) - Hierarchy check PASS - verified from log |
  
 | ![files](docs/w%20(44).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 41 Module name modified to check the error handling |
  
 | ![files](docs/w%20(45).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 42 Error flag set to 1, thus the check works |
  
 | ![files](docs/w%20(46).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 43 Error captured in the log file |
  
 | ![files](docs/w%20(47).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 44 Debugging statements printed to identify and modify hierarchy faults |
  
 | ![files](docs/w%20(48).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 45 Heirarchy PASS after rectifying the error |
 
 # 10. Synthesis using Yosys
 
