@@ -119,40 +119,40 @@ In this report, a TCL toolbox is created to process a verilog design. Design det
 
 | ![files](docs/w%20(19).png) |
 |:--:|
-| Fig. |
+| Fig. 18 Script to create the CSV file as a matrix, convert into an array and identify number of rows and columns |
  
 | ![files](docs/w%20(20).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 19 Verification of matrix creation, array creation and count of R and C|
+
+| ![files](docs/w%20(22).png) |
+|:--:|
+| Fig. 20 Script to extract the positions of port details' start point|
  
 | ![files](docs/w%20(21).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
- 
-| ![files](docs/w%20(22).png) |
+| Fig. 21 Verification of the indices |
+
+| ![files](docs/w%20(25).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 22 Snip of the constraints CSV file to cross-check |
+
+| ![files](docs/w%20(24).png) |
+|:--:|
+| Fig. 23 Script to identify start of a particular parameter - clocks' early rise delay in this case |
  
 | ![files](docs/w%20(23).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
- 
-| ![files](docs/w%20(24).png) |
+| Fig. 24 Verification of the index |
+
+| ![files](docs/w%20(27).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
- 
-| ![files](docs/w%20(25).png) |
-|:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 25 Script to idetify multiple parameters|
  
 | ![files](docs/w%20(26).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 26 Verification of the above case |
  
-| ![files](docs/w%20(27).png) |
-|:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
-
 # 5. Processing clock constraints
 
 | ![files](docs/w%20(28).png) |
