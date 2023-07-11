@@ -48,14 +48,134 @@ Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemd
 | Fig. 79 Generation of LEF (Library Exchange Format) file|
 
 # 3. Variable Creation 
+ 
+| ![files](docs/w%20(9).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+
+| ![files](docs/w%20(8).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+
+| ![files](docs/w%20(11).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(12).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(13).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(14).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(15).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(16).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(17).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(18).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
 
 # 4. Processing constraints from the CSV File
 
+| ![files](docs/w%20(19).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(20).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(21).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(22).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(23).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(24).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(25).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(26).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(27).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+
 # 5. Processing clock constraints
+
+| ![files](docs/w%20(28).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(29).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(30).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(31).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
 
 # 6. Processing input constraints
 
+| ![files](docs/w%20(32).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(33).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(34).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+
+| ![files](docs/w%20(36).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+
 # 7. Processing output constraints
+
+| ![files](docs/w%20(37).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(38).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(39).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
 
 # 8. Yosys
 
