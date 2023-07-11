@@ -11,7 +11,7 @@ Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemd
 # Outline
 
 # 1. Introduction
-| ![files](docs/w&#32(1).png) |
+| ![files](docs/w%20(1).png) |
 |:--:|
 | Fig. 79 Generation of LEF (Library Exchange Format) file|
  
