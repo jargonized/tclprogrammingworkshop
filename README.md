@@ -11,6 +11,10 @@ Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemd
 # Outline
 
 # 1. Introduction
+| ![files](docs/w (1).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
 
 # 2. Synth Toolbox
 
