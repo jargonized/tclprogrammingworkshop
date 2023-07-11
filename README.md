@@ -74,6 +74,8 @@ In this report, a TCL toolbox is created to process a verilog design. Design det
 | Fig. 7 Verification of scenarios 2 and 3|
 
 # 3. Variable Creation 
+
+## 3.1 Things to Note
  
 | ![files](docs/w%20(9).png) |
 |:--:|
@@ -155,27 +157,27 @@ In this report, a TCL toolbox is created to process a verilog design. Design det
  
 # 5. Processing clock constraints
 
+| ![files](docs/w%20(30).png) |
+|:--:|
+| Fig. 27 Script to extract clock constraints in the format that yosys accepts|
+
 | ![files](docs/w%20(28).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 28 Verification of working of the code |
  
 | ![files](docs/w%20(29).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
- 
-| ![files](docs/w%20(30).png) |
-|:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 29 Only the create clock of Fig. 27 was tested and the above output was verified |
  
 | ![files](docs/w%20(31).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 30 Successful extration of all clock related constraints |
 
 # 6. Processing input constraints
 
 | ![files](docs/w%20(32).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 31 |
  
 | ![files](docs/w%20(33).png) |
 |:--:|
