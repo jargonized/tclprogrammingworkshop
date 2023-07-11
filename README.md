@@ -36,37 +36,37 @@ Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemd
 
 # 2. Synth Toolbox
 
-| ![files](docs/w%20(4).png) |
+| ![files](docs/w%20(2).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 1 Creation of vsdsynth file amd addition of first line for shell scripting |
 
 | ![files](docs/w%20(1).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
- 
-| ![files](docs/w%20(2).png) |
-|:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 2 Verifying the creation of file using vim |
 
+| ![files](docs/w%20(4).png) |
+|:--:|
+| Fig. 3 Making the file executable and checking the acccess modification |
+ 
 ## 2.1 Usage Scenario 1
 
 | ![files](docs/w%20(3).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 4 Script to check if a file is provided|
 
 | ![files](docs/w%20(5).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 5 Checking both use cases - file not given and file given |
 
 ## 2.2 Usage Scenario 2 and 3
 
-| ![files](docs/w%20(6).png) |
-|:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
- 
 | ![files](docs/w%20(7).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 6 Scripts for scenario 2 - user invoking help menu - and scenario 3 - user providing a CSV file that does not exits|
+
+| ![files](docs/w%20(6).png) |
+|:--:|
+| Fig. 7 Verification of scenarios 2 and 3|
 
 # 3. Variable Creation 
  
