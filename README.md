@@ -165,6 +165,10 @@ Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemd
 
 # 7. Processing output constraints
 
+| ![files](docs/out_sdc_sc.png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+
 | ![files](docs/w%20(37).png) |
 |:--:|
 | Fig. 79 Generation of LEF (Library Exchange Format) file|
@@ -181,17 +185,167 @@ Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemd
 
 # 9. Hierarchy Check
 
+| ![files](docs/w%20(40).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(41).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(42).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(43).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(44).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(45).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(46).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(47).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(48).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+
 # 10. Synthesis using Yosys
+
+| ![files](docs/w%20(49).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(50).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(51).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(52).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(53).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(54).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
 
 # 11. Procs
 
-# 12. SDC processing for Opentimer
+| ![files](docs/w%20(59).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(60).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(61).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(62).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(63).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(64).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(65).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(66).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(67).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(68).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+
+# 12. Netlist and SDC processing for Opentimer
+
+| ![files](docs/w%20(55).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(56).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(57).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(58).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
 
 # 13. Static Timing Analysis (STA) and Quality of Results (QOR)
+
+| ![files](docs/w%20(69).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(70).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(71).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(73).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+
+| ![files](docs/w%20(72).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(75).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(76).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+
+| ![files](docs/w%20(74).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
 
 # 14. Conclusion
 
 # Acknowledgement
+
+The above work was carried out as a part of the 5-day workshop on TCL Programming organised by VLSI System Design. I am greatly indebted to Kunal Ghosh (course instructor), Geetima Kachari (TA) and the entire VSD Team for this great learning experience and immense guidance provided throughout the workshop.
 
 # Bibliography
 
