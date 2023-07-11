@@ -10,6 +10,25 @@ Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemd
 
 # Outline
 
+1. [Introduction](#1-introduction)
+2. [Synth Toolbox](#2-synth-toolbox)
+2.1 [Usage Scenario 1](https://github.com/jargonized/tclprogrammingworkshop/edit/main/README.md#21-usage-scenario-1)
+2.2 [Usage Scenario 2 & 3](https://github.com/jargonized/tclprogrammingworkshop/edit/main/README.md#22-usage-scenario-2-and-3)
+3. [Variable Creation](https://github.com/jargonized/tclprogrammingworkshop/edit/main/README.md#3-variable-creation)
+4. [Processing constraints from the CSV File](https://github.com/jargonized/tclprogrammingworkshop/edit/main/README.md#4-processing-constraints-from-the-csv-file)
+5. [Processing clock constraints](https://github.com/jargonized/tclprogrammingworkshop/edit/main/README.md#5-processing-clock-constraints)
+6. [Processing input constraints](https://github.com/jargonized/tclprogrammingworkshop#6-processing-input-constraints)
+7. [Processing output constraints](https://github.com/jargonized/tclprogrammingworkshop#7-processing-output-constraints)
+8. [Yosys](https://github.com/jargonized/tclprogrammingworkshop#8-yosys)
+9. [Hierarchy Check](https://github.com/jargonized/tclprogrammingworkshop#9-hierarchy-check)
+10. [Synthesis using Yosys](https://github.com/jargonized/tclprogrammingworkshop#10-synthesis-using-yosys)
+11. [Procs](https://github.com/jargonized/tclprogrammingworkshop#11-procs)
+12. [Netlist and SDC processing for Opentimer](https://github.com/jargonized/tclprogrammingworkshop#12-netlist-and-sdc-processing-for-opentimer)
+13. [Static Timing Analysis (STA) and Quality of Results (QOR)](https://github.com/jargonized/tclprogrammingworkshop#13-static-timing-analysis-sta-and-quality-of-results-qor)
+14. [Conclusion](https://github.com/jargonized/tclprogrammingworkshop#14-conclusion)
+[Acknowledgement](https://github.com/jargonized/tclprogrammingworkshop#acknowledgement)
+[Bibliography](https://github.com/jargonized/tclprogrammingworkshop#bibliography)
+
 # 1. Introduction
  
 
