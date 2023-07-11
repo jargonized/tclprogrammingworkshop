@@ -327,34 +327,30 @@ Procedures are nothing but code blocks with series of commands that provide a sp
 
 | ![files](docs/w%20(55).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 59 (i) Verilog file generated after synthesis. Contains * and \ which are unwanted - needs to be removed before its fed into Opentimer |
  
 | ![files](docs/w%20(56).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 59 (ii) Unwanted \ encountered |
+
+| ![files](docs/w%20(58).png) |
+|:--:|
+| Fig. 60 Script to remove unwanted lines and characters|
  
 | ![files](docs/w%20(57).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
- 
-| ![files](docs/w%20(58).png) |
-|:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
-
-# 13. Static Timing Analysis (STA) and Quality of Results (QOR)
+| Fig. 61 Successful netlist preparation for STA |
 
 | ![files](docs/w%20(69).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
- 
-| ![files](docs/w%20(70).png) |
-|:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 62 Script to use procs to process constraints in the SDC file and prepare the .spef and .conf file for Opentimer |
  
 | ![files](docs/w%20(71).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 63 Successful preparation of files required |
  
+# 13. Static Timing Analysis (STA) and Quality of Results (QOR)
+
 | ![files](docs/w%20(73).png) |
 |:--:|
 | Fig. 79 Generation of LEF (Library Exchange Format) file|
