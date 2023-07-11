@@ -257,27 +257,27 @@ Synthesis using Yosys can be well understood from [my report here](https://githu
 
 | ![files](docs/w%20(49).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 46 Script to run synthesis using yosys - which creates a script to feed to the yosys tool |
  
 | ![files](docs/w%20(50).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 47 Successful creation of yosys script |
  
 | ![files](docs/w%20(51).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 48 Preview of the yosys script |
  
 | ![files](docs/w%20(52).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 49 Script to invoke yosys tool with our design and catch errors |
  
 | ![files](docs/w%20(53).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 50  Successful synthesis |
  
 | ![files](docs/w%20(54).png) |
 |:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
+| Fig. 51 Snip of the synthesis log |
 
 # 11. Procs
 
