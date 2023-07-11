@@ -11,16 +11,41 @@ Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemd
 # Outline
 
 # 1. Introduction
-| ![files](docs/w%20(1).png) |
-|:--:|
-| Fig. 79 Generation of LEF (Library Exchange Format) file|
  
 
 # 2. Synth Toolbox
 
+| ![files](docs/w%20(4).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+
+| ![files](docs/w%20(1).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(2).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+
 ## 2.1 Usage Scenario 1
-## 2.2 Usage Scenario 2
-## 2.3 Usage Scenario 3
+
+| ![files](docs/w%20(3).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+
+| ![files](docs/w%20(5).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+
+## 2.2 Usage Scenario 2 and 3
+
+| ![files](docs/w%20(6).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
+ 
+| ![files](docs/w%20(7).png) |
+|:--:|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
 
 # 3. Variable Creation 
 
